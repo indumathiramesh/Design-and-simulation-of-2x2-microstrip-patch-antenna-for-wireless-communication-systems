@@ -1,0 +1,1 @@
+This project involves the design and simulation of a 2x2 microstrip patch antenna array aimed at improving the performance of wireless communication systems. The antenna is designed for enhanced gain, bandwidth, and directional radiation characteristics. Simulations are conducted using tools like HFSS.
